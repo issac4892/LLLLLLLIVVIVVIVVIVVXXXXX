@@ -11,3 +11,7 @@ before_install:
 
 script:
   - ./gradlew clean shadowJar
+  
+addons:
+  artifacts: 
+    path: ./build/libs
