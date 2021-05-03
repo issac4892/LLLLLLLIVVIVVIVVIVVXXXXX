@@ -1,7 +1,7 @@
 # LLLLLLLIVVIVVIVVIVVXXXXX
 Chalenging survival for komq.
 
-## Download
+## Downloads
 
 [Releases.](https://github.com/qogusdn1017/LLLLLLLIVVIVVIVVIVVXXXXX/releases)
 
